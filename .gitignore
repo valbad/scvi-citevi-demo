@@ -1,0 +1,7 @@
+# Data directory (raw datasets)
+data/cortex_rna.txt
+data/pbmc_citeseq/
+
+# Kaggle / cache
+.kaggle/
+.cache/
